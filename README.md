@@ -1,1 +1,1 @@
-# sql_zoo_personal_solution
+- 对[sqlzoo](https://sqlzoo.net/ "sqlzoo")的部分习题解答，虽然全部通过测试，但是有些答案可能不是最优解，甚至有bug，仅供参考。
